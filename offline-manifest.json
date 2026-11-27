@@ -1,5 +1,5 @@
 {
-  "version": "3.2",
+  "version": "3.3",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "d806004dff069a5a50c8c75eeec5f7050936d4a540d6a43115b5e9a79c85531e"
+      "sha256": "76829e8f781587ad123749a1920c17c9857b6e3aa6e61597e3d971cd43e3a1de"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "69ffaad3de562b7c7e2ca3425f8c11f6d86c61cf48cfd8ba8ee40dacdd56542d"
+      "sha256": "d24a744e1baa60408614ca94267d6052c0b9976211ec2641099fd60a493bc9f4"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -174,8 +174,36 @@
       "sha256": "4f9d073bd1e2abf7c666035f322006818f42fe91abe68c4f0c8c632e12e28b9c"
     },
     {
+      "path": "v33-ant-trail.svg",
+      "sha256": "8435b97b87e91ca6a2714973ecd9b0c0a254e59e7b1800d668cb285935e3eab4"
+    },
+    {
+      "path": "v33-ant.webp",
+      "sha256": "f095ccbdc3bf7f32909d84dd2371add773a896d4073f82c4ace50a68a3dd6fa3"
+    },
+    {
+      "path": "v33-fever-process.svg",
+      "sha256": "f382188c2dfb482d1d3777bff56206ff352b431ec7927703bef4ceafcba063c2"
+    },
+    {
+      "path": "v33-fever.webp",
+      "sha256": "1d5567ea66035d8501acf631f05e83256a8cf7ec9722eeef920e8e5acf905278"
+    },
+    {
+      "path": "v33-seed-growth.svg",
+      "sha256": "2b1fd9aa3e5bc629036d1f00d32712cf75900d72276b5253d2c15ae20c80c96f"
+    },
+    {
+      "path": "v33-seed.webp",
+      "sha256": "42f97693ed9b23e41a3f79c70712f96d41b40e62e904b8555396ec7fb51b1cd9"
+    },
+    {
+      "path": "v33-star.webp",
+      "sha256": "8885bfdeb567d13fc6016380e1d334c07707da73b5e93c34c87bd4ecf8c00bd7"
+    },
+    {
       "path": "version.json",
-      "sha256": "25806b342490611f70c078b1b803d67669c70bd37a9553dc3387e4a665ec80c7"
+      "sha256": "10e47ad3a8d8a4f0dd00608fe666f9a7f63d69870a9ad95a2b03f9a3e700df9e"
     }
   ]
 }
