@@ -1,5 +1,5 @@
 {
-  "version": "3.1",
+  "version": "3.2",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "11b5db74b2d98294a2908e2f3e866a71830bf1aadf5f73d4b69fd500fa169301"
+      "sha256": "d806004dff069a5a50c8c75eeec5f7050936d4a540d6a43115b5e9a79c85531e"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "d59b7225beabde084e4d92038675403720a491b4c9d4b0059853d52da8ebe9f7"
+      "sha256": "69ffaad3de562b7c7e2ca3425f8c11f6d86c61cf48cfd8ba8ee40dacdd56542d"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -175,7 +175,7 @@
     },
     {
       "path": "version.json",
-      "sha256": "1d91e1f80c04770b5b69e5f7d637601bac6a69553ca1e640c4057cabbcedc79c"
+      "sha256": "25806b342490611f70c078b1b803d67669c70bd37a9553dc3387e4a665ec80c7"
     }
   ]
 }
