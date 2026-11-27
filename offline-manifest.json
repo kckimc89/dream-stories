@@ -1,5 +1,5 @@
 {
-  "version": "2.7",
+  "version": "2.8",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "b47cf60c9ac1416aef0ae8196b67fd70fd30ce231d8a8c52b4c9214ae0223088"
+      "sha256": "5fc51dd5ecab43d84ab0f3e26790ea9907e751ef106b2b46455e6bb6768a67a3"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "8134b4544549da47ff15ad2025214b96a7d3e401a4bce1956b8011301da375e7"
+      "sha256": "06844a0bd8c6bfbbf050b96b17ef9b61c2d023fce92874a2e057bbb811f7f312"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -138,8 +138,44 @@
       "sha256": "c13e0e05033c80ad26069c7677a033722c92dc0adfe93136b2a0f664448e460a"
     },
     {
+      "path": "v28-fog-compare.svg",
+      "sha256": "fafb06ab7a92fc296223b805defdc8562ba8f2aff3c2efd481140132d16b615a"
+    },
+    {
+      "path": "v28-fog-day.svg",
+      "sha256": "dba7bdff6455a6cb93c58cc64506db7f1a0bcdfc0bd62f61944a26cf26464632"
+    },
+    {
+      "path": "v28-leaf-colors.svg",
+      "sha256": "97816e45a75b44902c55bca2413927297bb3791678b23dbd1f24a0c227a03276"
+    },
+    {
+      "path": "v28-leaf-fall.svg",
+      "sha256": "d65b30b4ff5b72be8539fb8c8966256ca2a4571ea5ea57df78793f39e8e8f8a1"
+    },
+    {
+      "path": "v28-leaf-structure.svg",
+      "sha256": "d488d925d05a307f22dc4262c0e61ba96680a7eaf889f6eabaeaf9657f8ec19e"
+    },
+    {
+      "path": "v28-moon-light.svg",
+      "sha256": "6784d8a657d5765ec7364d2dfa5253d6a12af131d5bd7b309752fddd6a587024"
+    },
+    {
+      "path": "v28-snow-crystals.svg",
+      "sha256": "17c54f1f68263d961708321746bcb7ce81d0f30688acbb93f4a68fdc9c3d907d"
+    },
+    {
+      "path": "v28-snow-process.svg",
+      "sha256": "002bfa51f65a244e1141347a8f1409bca5483ccd1a9a75ebd93baab88926b4da"
+    },
+    {
+      "path": "v28-water-cycle.svg",
+      "sha256": "4f9d073bd1e2abf7c666035f322006818f42fe91abe68c4f0c8c632e12e28b9c"
+    },
+    {
       "path": "version.json",
-      "sha256": "8b47b9bd7ac87531249499cda7bf36786051861ea9853fbdf2e4a0157fd2fc00"
+      "sha256": "ea3623bce4f4d595e0f663a68d50f90c7d453d8593adea57ba740c80d96f81b9"
     }
   ]
 }
