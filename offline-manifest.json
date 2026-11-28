@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.8",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "734da30a9924b878f373c43264b9fb9a39957d637d146e655fb88dd4f0c72b24"
+      "sha256": "2bf508c50c6a1684da84899508ecbe923c60caaf001c33deab69fb8679c642d8"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "cf45a41b87eb13ce9d7cec044ec0538da344073e1b27aa496bd60145d46a36c1"
+      "sha256": "0a700f737feeee9338cb7e03040d4350818a9a6ce8815193100a0546599eabff"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -454,8 +454,44 @@
       "sha256": "1e4f766abc12a78646557e7e2100f69b6a76f22b7b8428781192f60176179833"
     },
     {
+      "path": "v48-seed-01.webp",
+      "sha256": "ca8ef5fa3d92e35aca9c2fdd06e933719541626590d04f18044cce888371b745"
+    },
+    {
+      "path": "v48-seed-02.webp",
+      "sha256": "fdbceb5c44b36c28ff7424373c58bace346751eac8bbd4bebc2ff932e8a95bd5"
+    },
+    {
+      "path": "v48-seed-03.webp",
+      "sha256": "8995bcb9a1b796f1593e008568977bf266435607de749322f3bf1842641c8bb2"
+    },
+    {
+      "path": "v48-seed-04.webp",
+      "sha256": "5e944c1e9709233497d7d31e31f067f9228068aae2eb4ab8de863aba0be818a2"
+    },
+    {
+      "path": "v48-seed-05.webp",
+      "sha256": "79b839356b00bd352261081f14493013b559025c609ad0d08224a492990583ff"
+    },
+    {
+      "path": "v48-seed-06.webp",
+      "sha256": "227205b386d2665feac0ffee26f147a63bed7cd5ac917f797bb8ee393292a8c5"
+    },
+    {
+      "path": "v48-seed-07.webp",
+      "sha256": "457f6026cb0cf5c80ea743d13af8b05b43a41af34875a965572eab279f5145dd"
+    },
+    {
+      "path": "v48-seed-09.webp",
+      "sha256": "eb0b932da21b449b35b87f4e6cac140634a10118f0b560fc8ac3dc64e13f893c"
+    },
+    {
+      "path": "v48-seed-10.webp",
+      "sha256": "bcfc320e09e8025ab220841350eeb28aa330cfbf2aca4d01f6f7bdf585f57914"
+    },
+    {
       "path": "version.json",
-      "sha256": "1936e889696280581127576c0f88e53b4a19b69978b0da093c1aa6def3df4eb2"
+      "sha256": "df43b08af0f2c773b836565d8fcecd3f68fc1518da45763a747d3b6dd76ed8ac"
     }
   ]
 }
