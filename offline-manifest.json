@@ -1,5 +1,5 @@
 {
-  "version": "3.1",
+  "version": "3.6",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "11b5db74b2d98294a2908e2f3e866a71830bf1aadf5f73d4b69fd500fa169301"
+      "sha256": "16f660ee426edd1ba4299fbd77aecd630213b73a262921eef7f2b66067f4d198"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "d59b7225beabde084e4d92038675403720a491b4c9d4b0059853d52da8ebe9f7"
+      "sha256": "7e31c0470635f082c103e625738c5eab39152da494d3f327732aee218b166224"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -174,8 +174,60 @@
       "sha256": "4f9d073bd1e2abf7c666035f322006818f42fe91abe68c4f0c8c632e12e28b9c"
     },
     {
+      "path": "v33-ant-trail.svg",
+      "sha256": "8435b97b87e91ca6a2714973ecd9b0c0a254e59e7b1800d668cb285935e3eab4"
+    },
+    {
+      "path": "v33-ant.webp",
+      "sha256": "f095ccbdc3bf7f32909d84dd2371add773a896d4073f82c4ace50a68a3dd6fa3"
+    },
+    {
+      "path": "v33-fever-process.svg",
+      "sha256": "f382188c2dfb482d1d3777bff56206ff352b431ec7927703bef4ceafcba063c2"
+    },
+    {
+      "path": "v33-fever.webp",
+      "sha256": "1d5567ea66035d8501acf631f05e83256a8cf7ec9722eeef920e8e5acf905278"
+    },
+    {
+      "path": "v33-seed-growth.svg",
+      "sha256": "2b1fd9aa3e5bc629036d1f00d32712cf75900d72276b5253d2c15ae20c80c96f"
+    },
+    {
+      "path": "v33-seed.webp",
+      "sha256": "42f97693ed9b23e41a3f79c70712f96d41b40e62e904b8555396ec7fb51b1cd9"
+    },
+    {
+      "path": "v33-star.webp",
+      "sha256": "8885bfdeb567d13fc6016380e1d334c07707da73b5e93c34c87bd4ecf8c00bd7"
+    },
+    {
+      "path": "v35-brain.webp",
+      "sha256": "698a2036cd002d1e8c4ee1da32f0c3d8937bf564eb5f0da0a2721126f9f30017"
+    },
+    {
+      "path": "v35-butterfly.webp",
+      "sha256": "5e83ae4a03a1af7795c907b4c44f86d2e19713dfecae5ac21c775d1908cac54f"
+    },
+    {
+      "path": "v35-heart.webp",
+      "sha256": "e731bb2eb2f1f200df2239006b2fab9c1d1a6ab68d008c75598d9ad80f079528"
+    },
+    {
+      "path": "v35-lightning.webp",
+      "sha256": "ce12d7ddd8e220b427a99c22d37956c9a447c9c8520993e34d4503e4c9ea4d5b"
+    },
+    {
+      "path": "v35-ocean.webp",
+      "sha256": "afe1413896cb46d20f59fd3fda222df140f881197a013e1010fa2b0f916db1f8"
+    },
+    {
+      "path": "v35-photosynthesis.webp",
+      "sha256": "fb126f130222c3d15a6eaf5af6412e1c1964a06acd9a970ed0d9f33d87d24e15"
+    },
+    {
       "path": "version.json",
-      "sha256": "1d91e1f80c04770b5b69e5f7d637601bac6a69553ca1e640c4057cabbcedc79c"
+      "sha256": "03ad935229f8e1d678ba42877129424bb46c4751b4cb6707bbcfca62f2cf8aed"
     }
   ]
 }
