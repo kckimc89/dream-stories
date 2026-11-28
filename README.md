@@ -1,2 +1,1 @@
-V3.9 — 만화동화 3편, 총 32페이지. 신규 22페이지는 기존 구성 그림을 분리하여 큰 글씨 대사와 과학 설명을 추가한 편집형 만화입니다. 개별 고해상도 신규 그림은 미제작. 기존 V3.8 자료 보존. 아이폰 업데이트 ZIP을 저장소 최상위에 업로드. library 폴더 삭제 금지. 실제 기기 테스트 필요.
-과학 참고: https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization ; https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses ; https://www.ncbi.nlm.nih.gov/books/NBK27092/ ; https://www.ncbi.nlm.nih.gov/books/NBK535406/
+V4.0 — 만화 그림 4쪽 보강: 씨앗 1·8쪽, 백혈구 6·9쪽. 씨앗 1·8쪽은 독립 그림, 백혈구 6·9쪽은 새 그림에서 분리한 장면. 기존 동화 삽화의 중복 추가 표시 제거. 나머지 만화 페이지는 기존 유지. 기존 library 삭제 금지. 실제 기기 확인 필요.
