@@ -1,5 +1,5 @@
 {
-  "version": "4.3",
+  "version": "4.4",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "a72103c89e41ff7797bc8c2948781dac4e2eddaf82f1f28f6b5a258f0ad88295"
+      "sha256": "34a4e3d7b1cbc517c2cc555b15f27071447512a88badb85dd064bd5d3a2b7862"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "a09affe64e26269612de88e204bd528948de81031f5235ce1b3d40f14890e53d"
+      "sha256": "120a68b79b49d190c95c7dbdfb6fd492d6cb9fa31b92d517d09707a27fac1706"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -446,8 +446,16 @@
       "sha256": "eaddabc3d6146b54a685962200474f7877a56427aa4dc55807f575cccd0deb25"
     },
     {
+      "path": "v44-ant-08.webp",
+      "sha256": "c026078b833bf4fb804cd9cfeba7cb2ec37b5e53fac3231e670f3ae0e9c22909"
+    },
+    {
+      "path": "v44-ant-09.webp",
+      "sha256": "1e4f766abc12a78646557e7e2100f69b6a76f22b7b8428781192f60176179833"
+    },
+    {
       "path": "version.json",
-      "sha256": "cde4acf4653ced127180a1485f9390b3384051edf6b2bc307bcd3f0a974e2c8d"
+      "sha256": "5b931cfa036822f094bd43fc8144177f8ab341ac317a7667e06174f07e027cc8"
     }
   ]
 }
