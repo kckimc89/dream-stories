@@ -1,5 +1,5 @@
 {
-  "version": "3.7",
+  "version": "3.8",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "12de4b6c0fed1ebc67310348c3e2163ab2e2d83d3e5cd54bcb300e7eacb06f82"
+      "sha256": "65b9d6c369e1e2613e9246e1ebf71b3189973748588ddbac236c04d4e8399fe8"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "960e8f0fa46c88a97e68bdb26655793ddabd76d92ed191f64c49a58e84d7368c"
+      "sha256": "aaa0846b6e8c35f347768889d6351b04407e8a1af1c2d76f91e31cb7bb6e193e"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -250,8 +250,64 @@
       "sha256": "8751c3697ac801918514b89274c0c5349679aa9acb37a76c07af5f604dda818c"
     },
     {
+      "path": "v38-ant-01.webp",
+      "sha256": "85eef6104c242a371391f051159f6f44d68efd3d10406879815d8d4205d68fe5"
+    },
+    {
+      "path": "v38-ant-02.webp",
+      "sha256": "9daeb628140bfe4665ef76ee84d2c2c882d324c5725d990d0a0abc2d34ccccd5"
+    },
+    {
+      "path": "v38-ant-03.webp",
+      "sha256": "abe78d7b0da8ce7200c2d8c081bb2e9be4f7c6fbaca7bb6b033311c787d5671e"
+    },
+    {
+      "path": "v38-ant-04.webp",
+      "sha256": "4f7cadaf6ebb6924d55d2276f9574dbc84c18fe10b28a01ce857e588492cc4f5"
+    },
+    {
+      "path": "v38-ant-05.webp",
+      "sha256": "fb53aa6824091040dcef83d9cbb10db5321a71d19de3333a75d5bd55ae2ec64f"
+    },
+    {
+      "path": "v38-ant-06.webp",
+      "sha256": "cc2c4c585fe0c49fc316064cbb2003956ab5425b3541607cb9558f2b23a63cdd"
+    },
+    {
+      "path": "v38-ant-07.webp",
+      "sha256": "f54878d36495a689bad362b03a4934c7f39190190b17b25119b94f8806892d27"
+    },
+    {
+      "path": "v38-ant-10.webp",
+      "sha256": "83eefcb01df70413737acfd27523a5e355bc4b58c80782c979b2742d9de7f6f3"
+    },
+    {
+      "path": "v38-ant-8a.webp",
+      "sha256": "5ac48f26f57e8cbc4b1786a26ece6c7983174494ec447b03fa22bb5765042a08"
+    },
+    {
+      "path": "v38-ant-8b.webp",
+      "sha256": "a5490b4a43f2d9a706e151fe4a2e6d4903396dec8f3c62eea8e714c204548151"
+    },
+    {
+      "path": "v38-ant-8c.webp",
+      "sha256": "fc21c6e0162db3ef6e5f3ed4e079177d8758ea951c1369a1fb8a4463bba51e9b"
+    },
+    {
+      "path": "v38-ant-9a.webp",
+      "sha256": "99990e0f49dca3e10c08723114bc0492d43325f9b48417807b73badc6f9ee374"
+    },
+    {
+      "path": "v38-ant-9b.webp",
+      "sha256": "828765ad8284fd9121f089ec6c0fd77ccc2611c5196e4368588da0708899a36d"
+    },
+    {
+      "path": "v38-ant-9c.webp",
+      "sha256": "3c15786df1dfd091c99fec95e185e871a519b4fe7705920c275e9aa4fb8f7cce"
+    },
+    {
       "path": "version.json",
-      "sha256": "798b7d92aa3fb26a09990dd7d498f023bbd566dc345f6c04ef1ae3637d5484d9"
+      "sha256": "d6a6ad60170c5f17891792dc415ef4b9a98f77ae3642a9c1f5bb72892ca2afbc"
     }
   ]
 }
