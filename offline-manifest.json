@@ -1,5 +1,5 @@
 {
-  "version": "3.6",
+  "version": "3.7",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "16f660ee426edd1ba4299fbd77aecd630213b73a262921eef7f2b66067f4d198"
+      "sha256": "12de4b6c0fed1ebc67310348c3e2163ab2e2d83d3e5cd54bcb300e7eacb06f82"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "7e31c0470635f082c103e625738c5eab39152da494d3f327732aee218b166224"
+      "sha256": "960e8f0fa46c88a97e68bdb26655793ddabd76d92ed191f64c49a58e84d7368c"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -226,8 +226,32 @@
       "sha256": "fb126f130222c3d15a6eaf5af6412e1c1964a06acd9a970ed0d9f33d87d24e15"
     },
     {
+      "path": "v37-story-1.webp",
+      "sha256": "c4febb121512075f56651372e62d984b490b2d367e2f9bcbd4d158b6d73aae69"
+    },
+    {
+      "path": "v37-story-2.webp",
+      "sha256": "36acea770b38bb3baa15fa7b65b5bc0215ad2d3277e4cec21373ace720decf9d"
+    },
+    {
+      "path": "v37-story-3.webp",
+      "sha256": "df17593ab4f1741f798d0898fafaea8574017d478f2c4a679d54a9cd9d264eed"
+    },
+    {
+      "path": "v37-story-4.webp",
+      "sha256": "cd9d2cb0e32e90385ff1f279f711b3ad02651b3cc7b2b201d74f8bc45cd8d882"
+    },
+    {
+      "path": "v37-story-5.webp",
+      "sha256": "a4aec418fd0762f5574a99cda214b3a032bfc839d7829d480498ef9a88e8d517"
+    },
+    {
+      "path": "v37-story-6.webp",
+      "sha256": "8751c3697ac801918514b89274c0c5349679aa9acb37a76c07af5f604dda818c"
+    },
+    {
       "path": "version.json",
-      "sha256": "03ad935229f8e1d678ba42877129424bb46c4751b4cb6707bbcfca62f2cf8aed"
+      "sha256": "798b7d92aa3fb26a09990dd7d498f023bbd566dc345f6c04ef1ae3637d5484d9"
     }
   ]
 }
