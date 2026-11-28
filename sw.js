@@ -1,5 +1,5 @@
-const VERSION='4.1';
-const CACHE='dream-stories-v41';
+const VERSION='4.2';
+const CACHE='dream-stories-v42';
 const ROOT=self.registration.scope;
 const INDEX=new URL('index.html',ROOT).href;
 const MANIFEST=new URL('offline-manifest.json',ROOT).href;
