@@ -1,1 +1,2 @@
-V3.8 — 만화동화 1편 추가. 기존 V3.7 데이터 유지. 아이폰 업데이트 ZIP 내부 파일을 기존 저장소 최상위에 업로드. 기존 library 폴더 삭제 금지. 8·9페이지는 기존 고해상도 그림 일부를 재구성한 만화 장면 및 새 대사. 실제 기기 오프라인 확인 필요.
+V3.9 — 만화동화 3편, 총 32페이지. 신규 22페이지는 기존 구성 그림을 분리하여 큰 글씨 대사와 과학 설명을 추가한 편집형 만화입니다. 개별 고해상도 신규 그림은 미제작. 기존 V3.8 자료 보존. 아이폰 업데이트 ZIP을 저장소 최상위에 업로드. library 폴더 삭제 금지. 실제 기기 테스트 필요.
+과학 참고: https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization ; https://openstax.org/books/biology-2e/pages/30-6-plant-sensory-systems-and-responses ; https://www.ncbi.nlm.nih.gov/books/NBK27092/ ; https://www.ncbi.nlm.nih.gov/books/NBK535406/

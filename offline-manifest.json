@@ -1,5 +1,5 @@
 {
-  "version": "3.8",
+  "version": "3.9",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "65b9d6c369e1e2613e9246e1ebf71b3189973748588ddbac236c04d4e8399fe8"
+      "sha256": "29ef0e6c148827627130b4402306bf7ff1383ba2999ada54359d1521cc42332e"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "aaa0846b6e8c35f347768889d6351b04407e8a1af1c2d76f91e31cb7bb6e193e"
+      "sha256": "ec17cbbe8af1b256f694e4eb86c3bb503b2735592cff3dfa0f9d8d218d6bf2a2"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -306,8 +306,88 @@
       "sha256": "3c15786df1dfd091c99fec95e185e871a519b4fe7705920c275e9aa4fb8f7cce"
     },
     {
+      "path": "v39-immune-01.webp",
+      "sha256": "8c8bb08ccf724fa87d7ca7f12c87a030e74f588a4307307bfbaaa7d49265ed8d"
+    },
+    {
+      "path": "v39-immune-02.webp",
+      "sha256": "6948e9f6cc33124c9c1e143b4de6fe3d29dfe6fea123dbf4b1a4bf49bf187c46"
+    },
+    {
+      "path": "v39-immune-03.webp",
+      "sha256": "48f311297093c1ce43ff80f8728e3dcc55e0edd4469e95379762687002af3e19"
+    },
+    {
+      "path": "v39-immune-04.webp",
+      "sha256": "c26a6985faa64d5facc4cd480452dd4b57dc4ee0fdba012a9eda3b68a96a456c"
+    },
+    {
+      "path": "v39-immune-05.webp",
+      "sha256": "fd772f5c21d440831b14dceeab475811285781cefc72b2170fbb3a6b23d3a29d"
+    },
+    {
+      "path": "v39-immune-06.webp",
+      "sha256": "47916afffcb96883e5ed3a22d52519b68a1e5fccad3edd569ccd305068c0b7b1"
+    },
+    {
+      "path": "v39-immune-07.webp",
+      "sha256": "c2ac7f2c8b21b1a21e48e9873cf24a0db92a28abf9d25f5038ace90aad0c1807"
+    },
+    {
+      "path": "v39-immune-08.webp",
+      "sha256": "c7f67e96fe25723242deae187996e83358bf529ebd3df195a80e527a9fae297e"
+    },
+    {
+      "path": "v39-immune-09.webp",
+      "sha256": "73fdfb48af2142d9c175603a4344abe80af6670d8c4ad66f9a605d7d9363fd76"
+    },
+    {
+      "path": "v39-immune-10.webp",
+      "sha256": "74fd21bbf8c57d63b3d9197dcdd489201c6293edb28917f53e2411c6e035f29f"
+    },
+    {
+      "path": "v39-seed-01.webp",
+      "sha256": "67c14e7bc51518aad0fb4b83561dae9ba5dd12724168a52ae06ef95ea3ba863e"
+    },
+    {
+      "path": "v39-seed-02.webp",
+      "sha256": "c1546745e1338f5a429d5c5aa6d292b03c3eacb5b16e0c511b28c4eed5c3673b"
+    },
+    {
+      "path": "v39-seed-03.webp",
+      "sha256": "3f97917ad455a9f3dd84e68a8e440f6bf0ffea3d55a4df751be421dc321bd7e6"
+    },
+    {
+      "path": "v39-seed-04.webp",
+      "sha256": "e41b75a0a4f8dbb5f214b01fb7f1e7c2929cb66045cbbacd9dd0bcdd475322ff"
+    },
+    {
+      "path": "v39-seed-05.webp",
+      "sha256": "de3bfcd50fe2d00b3502e2dc6d412d31b2d6198d79fe9ef6b9a7314aa9ea75cb"
+    },
+    {
+      "path": "v39-seed-06.webp",
+      "sha256": "ceb02f5e31f5c348783d635af9c01010d013c3c1677d7ed686ae73f0645060b1"
+    },
+    {
+      "path": "v39-seed-07.webp",
+      "sha256": "7a96a539f92ec111c8a33b66a8245a93864c0e27f4081be573005089e4279440"
+    },
+    {
+      "path": "v39-seed-08.webp",
+      "sha256": "8f87ef05b6cc39d6e0b73cb37915a795e8db7fac84eef8d79a7bf950fe842646"
+    },
+    {
+      "path": "v39-seed-09.webp",
+      "sha256": "b5365a1c81229d07e6fa0a4c92c88dde82bb2140501c93c66b1ebab4823b5035"
+    },
+    {
+      "path": "v39-seed-10.webp",
+      "sha256": "37fcc2bbd42d0405a8f3100f4455051286f82f3dc046510900c50d721426c15e"
+    },
+    {
       "path": "version.json",
-      "sha256": "d6a6ad60170c5f17891792dc415ef4b9a98f77ae3642a9c1f5bb72892ca2afbc"
+      "sha256": "7c20da2fe8d44f3482551d466390d2aac235c97d358bf4ebf0c48e94e815154f"
     }
   ]
 }
