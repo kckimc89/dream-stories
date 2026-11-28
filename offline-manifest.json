@@ -1,5 +1,5 @@
 {
-  "version": "4.0",
+  "version": "4.1",
   "files": [
     {
       "path": "icon.png",
@@ -7,7 +7,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "869a4f413be8b1a987616674bd095805db98779f8b0bfe158b2da8efa375c1ae"
+      "sha256": "d13eca26ccddbc395f08ece7559994ab13a19f385310edf24aa3ef729be12f36"
     },
     {
       "path": "library/body/creative-0/blood-circulation.svg",
@@ -87,7 +87,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "d3fbe46c8ef13ee3c5cdd8448c96990ddcc031a8df9ca47da6db2f459974fc75"
+      "sha256": "66dc8563990eb09b151b754f4ab73a961ba38be42c814fe55408791eddaa4faf"
     },
     {
       "path": "v27-blood-parts.svg",
@@ -402,8 +402,52 @@
       "sha256": "b04bf46a8c52310623aa2c85d4cf742f993e558cbf7ca781283a81c6e74b0806"
     },
     {
+      "path": "v41-ant-08.webp",
+      "sha256": "b1c602c34a95f209b6e81e7ec7c283c2284db45c7aadaaf0c838a7b4a5026d54"
+    },
+    {
+      "path": "v41-immune-05a.webp",
+      "sha256": "62ddf64aa6f7de9baf84acb5965124a56ad3a5245436d5fb6492ebc60735c31c"
+    },
+    {
+      "path": "v41-immune-05b.webp",
+      "sha256": "76ccd8c9d20d7b613e68c04d6a34c1223b63ab874477da804b2f0c021bcd0575"
+    },
+    {
+      "path": "v41-immune-08a.webp",
+      "sha256": "cc59edd201b4530abe8356c88cde38e9fbc570d118989713417bb9d3a4ac671b"
+    },
+    {
+      "path": "v41-immune-08b.webp",
+      "sha256": "856efd45518feb9c1ac840aa9ed366fae6cd49bd6bfe3904a1f4d6fa3e31624e"
+    },
+    {
+      "path": "v41-immune-11a.webp",
+      "sha256": "7e9ad723800569267a95dc0776a910046dfad7b058c6bec561d4e8aedd4e7dcf"
+    },
+    {
+      "path": "v41-immune-11b.webp",
+      "sha256": "c998e057130936ca2c08c8c142a743e420718c80d1a6e35966c582e0f8d97516"
+    },
+    {
+      "path": "v41-seed-05a.webp",
+      "sha256": "9f4eceacbe61c1463847d2bbe05798efc5a401639ff3379744f1bd53f48cf9e6"
+    },
+    {
+      "path": "v41-seed-05b.webp",
+      "sha256": "d32dca2d2aa565f42b9d7629c9bedcd3bd3c0504571c771dd678015a3c1496b4"
+    },
+    {
+      "path": "v41-seed-07a.webp",
+      "sha256": "7b8846ed6365fbe786205e23d68fe7fb51253bfb86ed6be719ef71e50bb0b296"
+    },
+    {
+      "path": "v41-seed-07b.webp",
+      "sha256": "eaddabc3d6146b54a685962200474f7877a56427aa4dc55807f575cccd0deb25"
+    },
+    {
       "path": "version.json",
-      "sha256": "526087bc5c17b4f6c7d78f7df96358216a03c64f4a8cd4a663165d45d3031830"
+      "sha256": "d90618b5fb6758014793f9bb45c18d078aa2c2b3615407b30eaaf7d20ac02333"
     }
   ]
 }
